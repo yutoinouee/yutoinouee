@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Yuto
 
-<!--
-**yutoinouee/yutoinouee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP  
+💻 Focado em desenvolvimento com Java  
+🚀 Em busca da primeira oportunidade como estagiário em TI  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+📫 Contato
+
+📧 Email: y.a.arakaki2008@gmail.com
+📸 Instagram: (https://www.instagram.com/yutoinoue_/)
+🔗 LinkedIn: (https://www.linkedin.com/in/yuto-inoue-713348373/)
