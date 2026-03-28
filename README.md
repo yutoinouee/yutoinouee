@@ -12,7 +12,5 @@
 📫 Contato
 
 📧 Email: y.a.arakaki2008@gmail.com
-
-📸 Instagram: (https://www.instagram.com/yutoinoue_/)
-
+📸 Instagram: https://www.instagram.com/yutoinoue_/
 🔗 LinkedIn: https://www.linkedin.com/in/yuto-inoue-713348373/
