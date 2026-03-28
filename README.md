@@ -16,6 +16,6 @@
 📸 Instagram: (https://www.instagram.com/yutoinoue_/)
 <p>
 <a href="mailto:y.a.arakaki2008@gmail.com">Email</a><br>
-<a href="https://www.linkedin.com/in/SEU-LINK">LinkedIn</a><br>
-<a href="https://instagram.com/SEU_USUARIO">Instagram</a>
+<a href="(https://www.linkedin.com/in/yuto-inoue-713348373/)">LinkedIn</a><br>
+<a href="https://www.instagram.com/yutoinoue_/">Instagram</a>
 </p>
